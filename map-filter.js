@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ///**map */
 
 //simple loop
@@ -41,3 +42,9 @@ console.log(bigger);
 const search = numbers.find(x=>x==5);
 console.log(search);
 //foreach
+=======
+///map 3 parameters pass
+//1. Element
+//2. Index
+//3. Array
+>>>>>>> 5962ea5325805e65448d63283f024f8a778e146d
